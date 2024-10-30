@@ -16,8 +16,14 @@ public class Runner {
 
         System.out.println("techpro 3");
 
+
         //================================
 
         //dev1 kodlarini yazin
+
+        //===============================
+
+        //dev2 nin yaptigi degisiklikler
+
     }
 }
